@@ -1,5 +1,3 @@
-# Beginner Roadmap
-
 ## **Beginner Level (Foundations)**
 
 > Focus: Understanding devices, LAN connectivity, IP addressing, and basic switch/router functions.
