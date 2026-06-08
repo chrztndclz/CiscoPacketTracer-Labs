@@ -20,4 +20,4 @@
     
 9. **09_Ping_Tracert_Basics** – Practice ping, traceroute, and basic connectivity testing.
     
-10. **10_Simulatio_Mode** – Use Simulation Mode to observe ARP, ICMP, and packet flow through the network.
+10. **10_Simulation_Mode** – Use Simulation Mode to observe ARP, ICMP, and packet flow through the network.
