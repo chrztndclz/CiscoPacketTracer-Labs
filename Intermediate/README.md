@@ -13,7 +13,7 @@
     
 5. **05_ACL_Basics_IP_Filtering** – Implement standard and extended ACLs to block/allow traffic.
     
-6. **06_DHCP_Server_and_Client_Subnets** – Configure DHCP server and client across multiple subnets.
+6. **06_DHCP_Across_Multiple_Subnets** – Configure DHCP server and client across multiple subnets.
     
 7. **07_NAT_PAT_Basic_Labs** – Configure NAT and PAT to simulate internet access.
     
