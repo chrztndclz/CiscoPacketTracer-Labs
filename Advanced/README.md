@@ -2,22 +2,22 @@
 
 > Focus: WANs, enterprise routing protocols, security, wireless, QoS, and troubleshooting.
 
-1. **01_PC_to_PC_Connection** – Connect two PCs directly, assign IPs, test ping.
+1. **01_WAN_Simulation_Serial_PPP** – Connect remote networks via serial links, configure PPP authentication.
     
-2. **02_PC_to_Switch_Connection** – Connect multiple PCs to a switch, test LAN connectivity.
+2. **02_EIGRP_Routing_Lab** – Implement EIGRP in a multi-router topology, verify routes.
     
-3. **03_PC_to_Router_Default_Gateway** – Connect PCs through a router, configure default gateway.
+3. **03_BGP_Basic_Lab** – Configure BGP between two ASs, advertise networks.
     
-4. **04_Basic_IP_Addressing_Subnetting** – Assign multiple subnets, test connectivity.
+4. **04_Advanced_ACL_and_Security** – Block traffic by IP, protocol, and ports; test security policies.
     
-5. **05_Simple_Switch_Configuration** – Configure VLANs, assign ports, test communication.
+5. **05_Spanning_Tree_Protocol_STP** – Configure STP, test loop prevention and redundancy.
     
-6. **06_Hostname_and_Password_Configuration** – Configure device hostnames, console, and enable passwords.
+6. **06_VLAN_Trunking_Enterprise** – Multi-switch VLAN trunking, VTP, redundant links.
     
-7. **07_Static_IP_Subnet_Assignment** – Practice different subnet masks, understand subnetting impact.
+7. **07_DHCP_Relay_Advanced** – Configure DHCP relay across multiple VLANs/subnets.
     
-8. **08_Cabling_Types_HandsOn** – Use straight-through, crossover, and console cables correctly.
+8. **08_Wireless_Enterprise_LAN** – Configure multiple APs, SSIDs, WPA2/WPA3, roaming clients.
     
-9. **09_Ping_Tracert_Basics** – Practice ping, traceroute, and basic connectivity testing.
+9. **09_QoS_Basic_Implementation** – Apply QoS to prioritize traffic (voice, video, data).
     
-10. **10_Simulation_Mode** – Use Simulation Mode to observe ARP, ICMP, and packet flow through the network.
+10. **10_Network_Troubleshooting_Complex_Scenario** – Simulate broken network: misconfigured VLANs, ACLs, routing issues, and troubleshoot.
