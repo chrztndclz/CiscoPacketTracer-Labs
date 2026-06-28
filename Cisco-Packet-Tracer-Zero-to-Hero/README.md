@@ -1,3 +1,21 @@
+# Cisco Packet Tracer Zero to Hero
+
+A hands-on Cisco Packet Tracer lab repository designed to take you from networking fundamentals to enterprise-level concepts.
+
+The labs are organized into three learning paths:
+
+* [Beginner](Beginner) – Learn networking basics, IP addressing, subnetting, cabling, and basic device configuration.
+* [Intermediate](Intermediate) – Build routing, VLAN, DHCP, NAT, ACL, and wireless networking skills.
+* [Advanced](Advanced) – Explore enterprise networking, WAN technologies, advanced routing, security, QoS, and troubleshooting.
+
+Each lab includes practical exercises and real-world scenarios to help you develop the skills required for networking, CCNA preparation, and cybersecurity foundations.
+
+**Learning Path:** Beginner → Intermediate → Advanced
+
+
+---
+
+
 ## **Beginner Level (Foundations)**
 
 > Focus: Understanding devices, LAN connectivity, IP addressing, and basic switch/router functions.
