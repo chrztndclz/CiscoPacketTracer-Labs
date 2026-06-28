@@ -6,7 +6,7 @@
     
 2. [02_PC_to_Switch_Connection](02-PC-to-Switch) – Connect multiple PCs to a switch, test LAN connectivity.
     
-3. 03_PC_to_Router_Default_Gateway – Connect PCs through a router, configure default gateway.
+3. [03_PC_to_Router_Default_Gateway](03-PC-to-Router-Default-Gateway) – Connect PCs through a router, configure default gateway.
     
 4. **04_Basic_IP_Addressing_Subnetting** – Assign multiple subnets, test connectivity.
     
