@@ -2,7 +2,7 @@
 
 > Focus: Understanding devices, LAN connectivity, IP addressing, and basic switch/router functions.
 
-1. **01_PC_to_PC_Connection** – Connect two PCs directly, assign IPs, test ping.
+1. [01_PC_to_PC_Connection] – Connect two PCs directly, assign IPs, test ping.
     
 2. **02_PC_to_Switch_Connection** – Connect multiple PCs to a switch, test LAN connectivity.
     
