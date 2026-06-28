@@ -12,6 +12,7 @@ Each lab includes practical exercises and real-world scenarios to help you devel
 
 **Learning Path:** Beginner → Intermediate → Advanced
 
+> **Note:** All labs were created and tested using **Cisco Packet Tracer 9.0.0.0**. Functionality may vary in older versions.
 
 ---
 
