@@ -1,4 +1,4 @@
-<img width="512" height="376" alt="image" src="https://github.com/user-attachments/assets/695b24d3-5dc1-475c-a996-abbc2fe46e96" />
+<img width="412" height="276" alt="image" src="https://github.com/user-attachments/assets/695b24d3-5dc1-475c-a996-abbc2fe46e96" />
 
 
 # CiscoPacketTracer-Labs
